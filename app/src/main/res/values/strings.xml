@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="chose_a_room_or_create_a_one">Rooms</string>
+    <string name="create_new_rome">Create New Room</string>
+    <string name="todo">ToDO</string>
+    <string name="add">Add</string>
+    <string name="write_a_message">Write a Message</string>
+</resources>
